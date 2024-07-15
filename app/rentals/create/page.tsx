@@ -8,7 +8,7 @@ import CountriesInput from '@/components/form/CountriesInput';
 import ImageInput from '@/components/form/ImageInput';
 import TextAreaInput from '@/components/form/TextAreaInput';
 import CounterInput from '@/components/form/CounterInput';
-import AmenitiesInput from '@/components/form/AmenitesInput';
+import AmenitiesInput from '@/components/form/AmenitiesInput';
 
 function CreatePropertyPage() {
   return (
